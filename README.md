@@ -197,4 +197,18 @@ MSc Finance & Investment | University of Leeds
 
 **Focus:** FX Trading, Market Risk, Asset Management and Quantitative Finance
 
+## Dashboard
+
+The project includes a Power BI dashboard covering:
+
+- Trading desk overview and key risk metrics
+- Client flow and spread revenue by segment
+- Dealer positioning and simulated P&L
+- VaR, Expected Shortfall and adverse stress testing
+
+**Dashboard files:**
+
+[View the Power BI Dashboard PDF](powerbi/FX_Client_Flow_Market_Risk_Dashboard.pdf)
+
+[Power BI Dashboard File (.pbix)](powerbi/FX_Client_Flow_Market_Risk_Simulator.pbix)
 
