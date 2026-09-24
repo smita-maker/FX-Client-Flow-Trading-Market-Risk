@@ -177,3 +177,22 @@ FX-Client-Flow-Trading-Market-Risk/
 │
 └── data/
     └── FX_Client_Flow_PowerBI_Data.xlsx
+
+## Important Modelling Disclaimer
+
+Client trades, client-type probabilities, trade-size distributions, risk limits and stress scenarios are synthetic modelling assumptions created for this project.
+
+The project does not use proprietary bank, client or trading-desk data.
+
+Market prices are sourced from publicly available FRED data.
+
+Risk metrics are calculated from the simulated trading-book P&L distribution and should not be interpreted as forecasts or actual institutional risk limits.
+
+## Author
+
+**Smita Bonal**
+
+MSc Finance & Investment | University of Leeds
+
+**Focus:** FX Trading, Market Risk, Asset Management and Quantitative Finance
+
