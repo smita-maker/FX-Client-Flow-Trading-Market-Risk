@@ -177,6 +177,7 @@ FX-Client-Flow-Trading-Market-Risk/
 │
 └── data/
     └── FX_Client_Flow_PowerBI_Data.xlsx
+```
 
 ## Important Modelling Disclaimer
 
@@ -195,4 +196,5 @@ Risk metrics are calculated from the simulated trading-book P&L distribution and
 MSc Finance & Investment | University of Leeds
 
 **Focus:** FX Trading, Market Risk, Asset Management and Quantitative Finance
+
 
